@@ -1,0 +1,16 @@
+[submodule "weiqi-content-checker"]
+	path = apps/weiqi-content-checker
+	url = https://github.com/red-cup-engineering/weiqi-content-checker.git
+	branch = main
+[submodule "weiqi-web"]
+	path = apps/weiqi-web
+	url = https://github.com/red-cup-engineering/weiqi-web.git
+	branch = main
+[submodule "weiqi-obsmetrologia-formalization-service"]
+	path = services/weiqi-obsmetrologia-formalization-service
+	url = https://github.com/red-cup-engineering/weiqi-obsmetrologia-formalization-service.git
+	branch = main
+[submodule "weiqi-content-validation-service"]
+	path = services/weiqi-content-validation-service
+	url = https://github.com/red-cup-engineering/weiqi-content-validation-service.git
+	branch = main
