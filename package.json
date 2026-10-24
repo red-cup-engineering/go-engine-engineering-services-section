@@ -1,5 +1,5 @@
 {
-  "name": "@red-cup-engineering/go-engine-services-section",
+  "name": "@red-cup-engineering/go-engine-engineering-services-section",
   "version": "0.1.0",
   "type": "module",
   "description": "GTP (Go Text Protocol version 2) and KataGo JSON analysis-engine client sessions over a child process's stdio, plus the derivation of the house readout envelope (a per-point ownership reading carried as a FOUR charge, content-identified through cbor-ni-service) from a KataGo analysis response.",
@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/go-engine-services-section.git"
+    "url": "git+https://github.com/red-cup-engineering/go-engine-engineering-services-section.git"
   },
   "license": "MIT",
   "funding": {
