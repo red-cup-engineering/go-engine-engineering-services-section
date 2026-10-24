@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@red-cup-engineering/metrologic": "workspace:*",
-    "@red-cup-engineering/cbor-services-section": "workspace:*",
+    "@red-cup-engineering/cbor-engineering-services-section": "workspace:*",
     "@red-cup-engineering/javascript-node-operation-engineering-services-section": "workspace:*"
   },
   "exports": {
