@@ -7,7 +7,7 @@
 [![Tips welcome](https://img.shields.io/badge/tips-welcome-d4a017)](https://github.com/561-group/.github/blob/main/TIPS.md)
 <!-- 561-group-standards:badges:end -->
 
-`@red-cup-engineering/go-engine-services-section` speaks the two outside
+`@red-cup-engineering/go-engine-engineering-services-section` speaks the two outside
 protocols an external Go/weiqi engine (KataGo, GNU Go, or any other
 GTP-conformant engine) is reached by: GTP for play, and KataGo's JSON
 analysis protocol for review. It also derives the house readout envelope
