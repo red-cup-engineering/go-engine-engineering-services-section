@@ -14,3 +14,7 @@
 	path = services/weiqi-content-validation-service
 	url = https://github.com/red-cup-engineering/weiqi-content-validation-service.git
 	branch = main
+[submodule "weiqi-engine"]
+	path = apps/weiqi-engine
+	url = https://github.com/red-cup-engineering/weiqi-engine.git
+	branch = main
